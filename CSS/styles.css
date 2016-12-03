@@ -1,0 +1,11 @@
+#container {
+  width: 100%;
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box; 
+  border: thin solid black;
+  background-color:aquamarine;
+    
+    
+div,h2,fieldset,p,label{ display: inline-block; width: 210px; text-align: right; }
